@@ -1,4 +1,4 @@
-import po73.tissen.oop.Workout;
+import po73.tissen.oop.model.Workout;
 import po73.tissen.oop.model.Exercise;
 
 public class Test
